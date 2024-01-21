@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task1", "Task1\Task1.vcxproj", "{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task2", "Task2\Task2.vcxproj", "{D541748F-5077-425B-942A-D627D0ECACE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task4", "Task4\Task4.vcxproj", "{9AC10A63-978C-4C28-83AC-168A33C70BF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcxitems", "{322FD035-C09A-45C8-B452-4494C076F95F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task3", "Task3\Task3.vcxproj", "{E2874F1B-2761-4364-958B-A8A4C8F389C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Debug|x64.ActiveCfg = Debug|x64
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Debug|x64.Build.0 = Debug|x64
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Debug|x86.Build.0 = Debug|Win32
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Release|x64.ActiveCfg = Release|x64
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Release|x64.Build.0 = Release|x64
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Release|x86.ActiveCfg = Release|Win32
+		{8C7AD5BB-AC1D-40C6-8D73-20C2F82FFF9C}.Release|x86.Build.0 = Release|Win32
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Debug|x64.ActiveCfg = Debug|x64
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Debug|x64.Build.0 = Debug|x64
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Debug|x86.Build.0 = Debug|Win32
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Release|x64.ActiveCfg = Release|x64
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Release|x64.Build.0 = Release|x64
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Release|x86.ActiveCfg = Release|Win32
+		{D541748F-5077-425B-942A-D627D0ECACE0}.Release|x86.Build.0 = Release|Win32
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Debug|x64.ActiveCfg = Debug|x64
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Debug|x64.Build.0 = Debug|x64
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Debug|x86.Build.0 = Debug|Win32
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Release|x64.ActiveCfg = Release|x64
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Release|x64.Build.0 = Release|x64
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Release|x86.ActiveCfg = Release|Win32
+		{9AC10A63-978C-4C28-83AC-168A33C70BF3}.Release|x86.Build.0 = Release|Win32
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Debug|x64.ActiveCfg = Debug|x64
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Debug|x64.Build.0 = Debug|x64
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Debug|x86.Build.0 = Debug|Win32
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Release|x64.ActiveCfg = Release|x64
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Release|x64.Build.0 = Release|x64
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Release|x86.ActiveCfg = Release|Win32
+		{E2874F1B-2761-4364-958B-A8A4C8F389C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A4DE91-B799-4ABF-B74C-707B37192C74}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Common\Common.vcxitems*{322fd035-c09a-45c8-b452-4494c076f95f}*SharedItemsImports = 9
+		Common\Common.vcxitems*{8c7ad5bb-ac1d-40c6-8d73-20c2f82fff9c}*SharedItemsImports = 4
+		Common\Common.vcxitems*{9ac10a63-978c-4c28-83ac-168a33c70bf3}*SharedItemsImports = 4
+		Common\Common.vcxitems*{d541748f-5077-425b-942a-d627d0ecace0}*SharedItemsImports = 4
+		Common\Common.vcxitems*{e2874f1b-2761-4364-958b-a8a4c8f389c8}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
